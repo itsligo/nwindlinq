@@ -12,7 +12,7 @@
             <RowDefinition Height="3*"/>
             <RowDefinition Height="2*"/>
         </Grid.RowDefinitions>
-        <ListBox x:Name="lbxStockLevel" TextElement.FontSize="20"
+        <ListBox x:Name="lbxStockLevel" TextElement.FontSize="22"
                  SelectionChanged="lbxStockLevel_SelectionChanged">
             <ListBoxItem Content="Low" />
             <ListBoxItem Content="Normal" />
