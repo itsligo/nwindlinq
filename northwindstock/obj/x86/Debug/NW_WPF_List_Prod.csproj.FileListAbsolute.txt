@@ -1,40 +1,12 @@
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.exe.config
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.exe
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.pdb
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\ResolveAssemblyReference.cache
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\MainWindow.baml
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\MainWindow.g.cs
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\App.g.cs
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock_MarkupCompile.cache
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.g.resources
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.Properties.Resources.resources
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\GenerateResource.read.1.tlog
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\GenerateResource.write.1.tlog
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.exe
-Y:\=== WINPRG1 ===\=== PERSISTENCE ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.pdb
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.exe.config
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.exe
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.pdb
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.exe
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.pdb
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\NW_WPF_List_Prod.csprojResolveAssemblyReference.cache
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\MainWindow.baml
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\MainWindow.g.cs
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\App.g.cs
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock_MarkupCompile.cache
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.g.resources
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.Properties.Resources.resources
-\\psf\Home\Documents\Projects\====EXER\=== FOOP202 ===\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\NW_WPF_List_Prod.csproj.GenerateResource.Cache
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.exe.config
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.exe
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\bin\Debug\northwindstock.pdb
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\NW_WPF_List_Prod.csprojResolveAssemblyReference.cache
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\MainWindow.baml
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\MainWindow.g.cs
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\App.g.cs
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock_MarkupCompile.cache
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.g.resources
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.Properties.Resources.resources
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\NW_WPF_List_Prod.csproj.GenerateResource.Cache
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.exe
-C:\Repos\foop20x\==LINQ\NW_WPF_List_1 (Prod)\northwindstock\obj\x86\Debug\northwindstock.pdb
+C:\repos\foop202\==linq\nwindlinq\northwindstock\bin\Debug\northwindstock.exe.config
+C:\repos\foop202\==linq\nwindlinq\northwindstock\bin\Debug\northwindstock.exe
+C:\repos\foop202\==linq\nwindlinq\northwindstock\bin\Debug\northwindstock.pdb
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\MainWindow.baml
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\MainWindow.g.cs
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\App.g.cs
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\northwindstock_MarkupCompile.cache
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\northwindstock.g.resources
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\northwindstock.Properties.Resources.resources
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\NW_WPF_List_Prod.csproj.GenerateResource.Cache
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\northwindstock.exe
+C:\repos\foop202\==linq\nwindlinq\northwindstock\obj\x86\Debug\northwindstock.pdb
